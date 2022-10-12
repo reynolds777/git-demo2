@@ -8,5 +8,6 @@ public class GitDemo {
         System.out.println("hello master");
         System.out.println("hello hotfix");
         System.out.println("hello from remote");
+        System.out.println("hello from local repository");
     }
 }
